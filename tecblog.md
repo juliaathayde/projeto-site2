@@ -1,5 +1,5 @@
 # tecblog
-Projeto de aula com site de tecnologia
+Projeto TecBlog
 <!DOCTYPE html>
 <html>
 <head>
